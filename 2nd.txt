@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thius is the second fileir hellopo guyguyg
+=======
+thius is the second fileir
+>>>>>>> 7900437cecf6f007ac6357c4b6e6265b104802c8
